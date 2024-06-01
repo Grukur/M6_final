@@ -17,6 +17,7 @@
     "axios": "^1.7.2",
     "cors": "^2.8.5",
     "express": "^4.19.2",
+    "format-number": "^3.0.0",
     "nodemon": "^3.1.2"
   }
 }
